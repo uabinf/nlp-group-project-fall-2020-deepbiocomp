@@ -160,4 +160,3 @@ dependencies:
     - xgboost==0.90
     - xmltodict==0.12.0
     - zipp==3.4.0
-prefix: /data/user/tr27p/.conda/envs/DeepBioComp
