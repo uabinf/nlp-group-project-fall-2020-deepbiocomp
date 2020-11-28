@@ -29,3 +29,6 @@ python run_squad.py \
 
 ## License
 [MIT](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/LICENSE)
+
+## Google Drive
+[link](https://drive.google.com/drive/folders/1YmDINjCupRHrTMihE9k8r8wTxL1H5UCv?usp=sharing)
