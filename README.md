@@ -1,10 +1,8 @@
 # DeepBioComp
 # Cancer Ask
 
-![Cancer Ask Logo](images/Cancer_ask.svg)
-
-![Cancer Ask Logo](images/Cancer_ask.svg)
-<img src="images/Cancer_ask.svg">
+![Cancer Ask Logo](Images/Cancer_ask.svg)
+<img src="Images/Cancer_ask.svg">
 
 ## Reference
 ### Dataset
