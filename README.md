@@ -1,5 +1,7 @@
 # DeepBioComp
 # Cancer Ask
+![Cancer Ask Logo](Images/Cancer_ask.png)
+
 
 ![Cancer Ask Logo](Images/Cancer_ask.svg)
 
