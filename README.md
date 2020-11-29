@@ -2,7 +2,7 @@
 # Cancer Ask
 
 ![Cancer Ask Logo](Images/Cancer_ask.svg)
-<img src="Images/Cancer_ask.svg">
+
 
 ## Reference
 ### Dataset
