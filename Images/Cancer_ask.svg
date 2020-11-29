@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="768">
+<defs/>
+<g>
+<g transform="translate(518,256) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="140.957px" font-style="normal" font-weight="normal" x="-199.55294799804688" y="-56.38284960000002" text-anchor="start" dominant-baseline="alphabetic">Cancer</text>
+</g>
+<g transform="translate(580,466) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="102.514px" font-style="normal" font-weight="normal" x="-85.41665649414062" y="-41.005708800000015" text-anchor="start" dominant-baseline="alphabetic">Cell</text>
+</g>
+<g transform="translate(512,164) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="89.7px" font-style="normal" font-weight="normal" x="-102.14936828613281" y="-35.87999520000002" text-anchor="start" dominant-baseline="alphabetic">Adult</text>
+</g>
+<g transform="translate(444,460) rotate(89.6541893887624,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="51.2571px" font-style="normal" font-weight="normal" x="-58.34442138671875" y="-20.502854400000007" text-anchor="start" dominant-baseline="alphabetic">Germ</text>
+</g>
+<g transform="translate(634,370) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="51.2571px" font-style="normal" font-weight="normal" x="-61.1846923828125" y="-20.502854400000007" text-anchor="start" dominant-baseline="alphabetic">Acute</text>
+</g>
+<g transform="translate(704,334) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="51.2571px" font-style="normal" font-weight="normal" x="-86.82220458984375" y="-20.502854400000007" text-anchor="start" dominant-baseline="alphabetic">Nervous</text>
+</g>
+<g transform="translate(520,630) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="51.2571px" font-style="normal" font-weight="normal" x="-75.423583984375" y="-20.502854400000007" text-anchor="start" dominant-baseline="alphabetic">Central</text>
+</g>
+<g transform="translate(698,294) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="51.2571px" font-style="normal" font-weight="normal" x="-82.530517578125" y="-20.502854400000007" text-anchor="start" dominant-baseline="alphabetic">Ovarian</text>
+</g>
+<g transform="translate(576,492) rotate(-18.560191173206135,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="51.2571px" font-style="normal" font-weight="normal" x="-75.46112060546875" y="-20.502854400000007" text-anchor="start" dominant-baseline="alphabetic">System</text>
+</g>
+<g transform="translate(536,542) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="38.4429px" font-style="normal" font-weight="normal" x="-40.57032012939453" y="-15.377140800000006" text-anchor="start" dominant-baseline="alphabetic">Lung</text>
+</g>
+<g transform="translate(702,394) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="38.4429px" font-style="normal" font-weight="normal" x="-41.62141418457031" y="-15.377140800000006" text-anchor="start" dominant-baseline="alphabetic">Liver</text>
+</g>
+<g transform="translate(528,654) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="38.4429px" font-style="normal" font-weight="normal" x="-85.41070556640625" y="-15.377140800000006" text-anchor="start" dominant-baseline="alphabetic">Neoplasms</text>
+</g>
+<g transform="translate(384,250) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="38.4429px" font-style="normal" font-weight="normal" x="-65.13023376464844" y="-15.377140800000006" text-anchor="start" dominant-baseline="alphabetic">Myeloid</text>
+</g>
+<g transform="translate(650,242) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="38.4429px" font-style="normal" font-weight="normal" x="-51.25017547607422" y="-15.377140800000006" text-anchor="start" dominant-baseline="alphabetic">Cavity</text>
+</g>
+<g transform="translate(508,692) rotate(30.882014807143854,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-51.934242248535156" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Peritoneal</text>
+</g>
+<g transform="translate(518,72) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-54.780235290527344" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Melanoma</text>
+</g>
+<g transform="translate(564,676) rotate(6.168803020750458,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-48.387733459472656" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Fallopian</text>
+</g>
+<g transform="translate(516,464) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-25.87017822265625" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Tube</text>
+</g>
+<g transform="translate(574,508) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-34.414344787597656" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Tumor</text>
+</g>
+<g transform="translate(534,408) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-22.761497497558594" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Oral</text>
+</g>
+<g transform="translate(512,736) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-52.653564453125" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Malignant</text>
+</g>
+<g transform="translate(692,408) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-29.879554748535156" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Renal</text>
+</g>
+<g transform="translate(392,272) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-32.72551727294922" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Breast</text>
+</g>
+<g transform="translate(508,756) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-53.341590881347656" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Pancreatic</text>
+</g>
+<g transform="translate(742,240) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-44.109397888183594" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Atypical</text>
+</g>
+<g transform="translate(674,140) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-56.20008850097656" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Carcinoma</text>
+</g>
+<g transform="translate(580,384) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-21.354148864746094" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Soft</text>
+</g>
+<g transform="translate(656,120) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-44.834983825683594" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Hodgkin</text>
+</g>
+<g transform="translate(732,368) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-32.994476318359375" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Tissue</text>
+</g>
+<g transform="translate(724,348) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-28.459693908691406" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Brain</text>
+</g>
+<g transform="translate(388,184) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="25.6286px" font-style="normal" font-weight="normal" x="-29.892059326171875" y="-10.251427200000004" text-anchor="start" dominant-baseline="alphabetic">Small</text>
+</g>
+<g transform="translate(548,444) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-22.05469512939453" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Intestine</text>
+</g>
+<g transform="translate(532,384) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-13.513664245605469" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Neck</text>
+</g>
+<g transform="translate(624,476) rotate(-42.43244183386051,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-17.07268524169922" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Occult</text>
+</g>
+<g transform="translate(624,328) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-26.3267822265625" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Thymoma</text>
+</g>
+<g transform="translate(602,706) rotate(-53.91104861097435,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-35.34943389892578" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Trophoblastic</text>
+</g>
+<g transform="translate(532,416) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-14.239227294921875" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Sinus</text>
+</g>
+<g transform="translate(686,416) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-24.54100799560547" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Paranasal</text>
+</g>
+<g transform="translate(460,682) rotate(-87.73556115167739,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-41.61683654785156" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Nasopharyngeal</text>
+</g>
+<g transform="translate(684,288) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-26.68956756591797" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Squamous</text>
+</g>
+<g transform="translate(530,512) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-19.918655395507812" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Disease</text>
+</g>
+<g transform="translate(510,440) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-8.894432067871094" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Lip</text>
+</g>
+<g transform="translate(472,532) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-21.33850860595703" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Urethral</text>
+</g>
+<g transform="translate(684,248) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-33.451080322265625" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Histiocytosis</text>
+</g>
+<g transform="translate(394,284) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-19.921783447265625" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Thymic</text>
+</g>
+<g transform="translate(432,74) rotate(-33.42055695954657,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-29.876426696777344" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Langerhans</text>
+</g>
+<g transform="translate(586,524) rotate(36.3307656341438,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-17.40106201171875" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Vulvar</text>
+</g>
+<g transform="translate(496,708) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-25.96086883544922" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Laryngeal</text>
+</g>
+<g transform="translate(552,356) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-14.583244323730469" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Nasal</text>
+</g>
+<g transform="translate(740,292) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-26.677047729492188" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Metastatic</text>
+</g>
+<g transform="translate(544,88) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-26.677047729492188" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Colorectal</text>
+</g>
+<g transform="translate(508,588) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-18.49567413330078" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Merkel</text>
+</g>
+<g transform="translate(396,104) rotate(-8.10683404622331,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-29.882675170898438" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Parathyroid</text>
+</g>
+<g transform="translate(582,488) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-11.746658325195312" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Skin</text>
+</g>
+<g transform="translate(402,252) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-16.009353637695312" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Penile</text>
+</g>
+<g transform="translate(650,444) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-13.160263061523438" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Male</text>
+</g>
+<g transform="translate(460,476) rotate(-85.72695152545114,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-29.16961669921875" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Gestational</text>
+</g>
+<g transform="translate(584,174) rotate(7.532753054457378,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-18.501922607421875" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Plasma</text>
+</g>
+<g transform="translate(744,210) rotate(-9.706004747993239,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-39.130516052246094" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Neuroblastoma</text>
+</g>
+<g transform="translate(478,88) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-24.547271728515625" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Myeloma</text>
+</g>
+<g transform="translate(488,696) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-22.060951232910156" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Multiple</text>
+</g>
+<g transform="translate(390,156) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-24.547271728515625" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Including</text>
+</g>
+<g transform="translate(656,180) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-22.060943603515625" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Pituitary</text>
+</g>
+<g transform="translate(372,192) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-18.855331420898438" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Kidney</text>
+</g>
+<g transform="translate(404,208) rotate(52.135714740724744,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-11.02734375" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Islet</text>
+</g>
+<g transform="translate(554,588) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-16.35962677001953" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Rectal</text>
+</g>
+<g transform="translate(534,52) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-28.109413146972656" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Non-Small</text>
+</g>
+<g transform="translate(550,684) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-15.65283203125" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Gland</text>
+</g>
+<g transform="translate(334,212) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-15.659088134765625" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Colon</text>
+</g>
+<g transform="translate(764,252) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-30.72394561767578" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Transitional</text>
+</g>
+<g transform="translate(678,428) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-16.822486877441406" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Wilms</text>
+</g>
+<g transform="translate(600,596) rotate(49.44170381582585,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-16.35649871826172" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Ureter</text>
+</g>
+<g transform="translate(382,144) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-15.659080505371094" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Pelvis</text>
+</g>
+<g transform="translate(570,696) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-20.63483428955078" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Prostate</text>
+</g>
+<g transform="translate(308,196) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-21.344764709472656" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Salivary</text>
+</g>
+<g transform="translate(720,196) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-21.344772338867188" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Juvenile</text>
+</g>
+<g transform="translate(618,80) rotate(18.756737457979177,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-47.93424987792969" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Teratoid/Rhabdoid</text>
+</g>
+<g transform="translate(462,220) rotate(0,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-13.166511535644531" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Stem</text>
+</g>
+<g transform="translate(740,168) rotate(49.29664975738443,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-35.57774353027344" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Astrocytomas</text>
+</g>
+<g transform="translate(602,516) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-12.809989929199219" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Cord</text>
+</g>
+<g transform="translate(298,208) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-16.36901092529297" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Spinal</text>
+</g>
+<g transform="translate(720,178) rotate(-24.420469501228247,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-19.21185302734375" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Glioma</text>
+</g>
+<g transform="translate(486,624) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-12.450332641601562" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Duct</text>
+</g>
+<g transform="translate(628,382) rotate(73.35960864177393,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-10.673942565917969" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Bile</text>
+</g>
+<g transform="translate(374,220) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-12.450332641601562" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Anal</text>
+</g>
+<g transform="translate(766,340) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-12.459709167480469" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">CNS</text>
+</g>
+<g transform="translate(632,70) rotate(27.992820402934797,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-20.28143310546875" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Stromal</text>
+</g>
+<g transform="translate(584,744) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-18.145401000976562" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Kaposi</text>
+</g>
+<g transform="translate(516,176) rotate(-82.84273253448508,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-14.583244323730469" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Szary</text>
+</g>
+<g transform="translate(590,56) rotate(0,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-16.722412109375" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Ewing</text>
+</g>
+<g transform="translate(582,184) rotate(0,0,0)">
+<text fill="#f00" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-11.740402221679688" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Low</text>
+</g>
+<g transform="translate(474,682) rotate(0.9310258736302565,0,0)">
+<text fill="#0f0" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-13.519920349121094" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Bone</text>
+</g>
+<g transform="translate(498,658) rotate(28.259031354361408,0,0)">
+<text fill="#00f" stroke="none" font-family="Times New Roman" font-size="12.8143px" font-style="normal" font-weight="normal" x="-11.734146118164062" y="-5.125713600000002" text-anchor="start" dominant-baseline="alphabetic">Vera</text>
+</g>
+</g>
+</svg>
