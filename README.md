@@ -1,5 +1,5 @@
 # DeepBioComp
-# Cancer Ask :scorpion:
+## Cancer Ask :scorpion:
 <p align="center">
     <img align="center" src="Images/Cancer_ask.svg" height="400">
 </p>
@@ -7,6 +7,85 @@
 ## About
 
 We fine-tuned **[BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.1-squad) (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining)** model for short question types over cancer-related question answers and context texts, we called Cancer Ask. Further, we fine-tuned the **Generative Pre-trained Transformer 2 (GPT2)**, models over cancer-related text, we named it as GPT2 Cancer. Basic idea is to use answers from Cancer Ask :scorpion: and feed to GPT2 Cancer to extend the scope of the answer further to enhance the context.
+
+## Running the project
+
+### Cloning DeepBioComp
+To clone this project please enter below command in you terminal:
+```bash
+git clone https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp
+``` 
+
+### Enviroment setup
+To run this project you need to fullfill specific packages. Please run the following command in your terminal:
+```bash
+module load Anaconda3/2020.07
+conda env create --file DeepBioComp.yml
+```
+**NOTE:** This instructions only works if you are using [Cheaha Supercomputer](https://www.uab.edu/it/home/research-computing/cheaha).
+
+### Running Jupyter Notebooks on Cheaha
+To run Jupyter Notebook and Python kernal please run the following command in your Cheaha termial:
+```bash
+sbatch scripts/job_script/CS762_pascal_Cheaha.job
+```
+This Slurm job script will create an output file with appropriate resources. Example output file:
+file name: jupyter-log-pascal-CS762-<JOB_ID>.txt
+```
+Name of the cluster on which the job is executing. slurm_cluster
+Number of tasks to be initiated on each node. 1
+Number of cpus requested per task. 16
+Number of CPUS on the allocated node. 16
+Total number of processes in the current job.
+List of nodes allocated to the job c0109
+Total number of nodes in the job's resource allocation. 1
+List of allocated GPUs. 0,1,2,3
+
+The following have been reloaded with a version change:
+  1) Anaconda3/2020.02 => Anaconda3/2020.07
+
+
+
+   Copy/Paste this in your local terminal to ssh tunnel with remote
+   ------------------------------------------------------------------
+   ssh -L 9081:172.20.201.109:9081 <YOUR_USER_NAME>@cheaha.rc.uab.edu
+   ------------------------------------------------------------------
+
+
+   Then open a browser on your local machine to the following address
+   ------------------------------------------------------------------
+   localhost:9081
+   ------------------------------------------------------------------
+
+
+[I 22:11:08.513 NotebookApp] Serving notebooks from local directory: /data/user/<YOUR_USER_NAME>
+[I 22:11:08.513 NotebookApp] Jupyter Notebook 6.1.5 is running at:
+[I 22:11:08.513 NotebookApp] http://172.20.201.109:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
+[I 22:11:08.513 NotebookApp]  or http://127.0.0.1:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
+[I 22:11:08.513 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:11:08.536 NotebookApp]
+
+    To access the notebook, open this file in a browser:
+        file:///home/<YOUR_USER_NAME>/.local/share/jupyter/runtime/nbserver-18353-open.html
+    Or copy and paste one of these URLs:
+        http://172.20.201.109:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
+     or http://127.0.0.1:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
+
+```
+
+Now, to open Jupyter nootbook in your local machine browser, please run the commands that are mention in your output file, on your local terminal (Based on previous example):
+Step 1:
+```bash
+ssh -L 9081:172.20.201.109:9081 <YOUR_USER_NAME>@cheaha.rc.uab.edu
+```
+**NOTE:** you need to replace "<YOUR_USER_NAME>" with your user id on Cheaha. DO NOT CLOSE THE TERMINAL, AND MAKE SURE YOU ARE CONNECTED TO INTERNET.
+
+Step 2:
+Open your choice of browser and type link that is mention in your output file (Based on previous example):
+```
+http://localhost:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
+```
+**NOTE:** you need to replace IP address "172.20.201.109" with "localhost", and <JUPYTER_SECURITY_KEY_TOKEN> with the key mention in your output file.
 
 <!--
 ![Cancer Ask Logo](Images/Data_t2.svg)
