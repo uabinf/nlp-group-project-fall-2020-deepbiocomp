@@ -9,6 +9,8 @@
 
 We fine-tuned **[BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.1-squad) (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining)** model for short question types over cancer-related question answers and context texts, we called Cancer Ask. Further, we fine-tuned the **Generative Pre-trained Transformer 2 (GPT2)**, models over cancer-related text, we named it as GPT2 Cancer. Basic idea is to use answers from Cancer Ask :scorpion: and feed to GPT2 Cancer to extend the scope of the answer further to enhance the context.
 
+![Cancer Ask Logo](Images/Data_t2.svg)
+
 ### Table 1. List of the Cancer type and question type.
 
 | Cancer type                                                       | Question type |
@@ -113,22 +115,6 @@ We fine-tuned **[BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.
 | Chronic Neutrophilic Leukemia                                     | 2             |
 
 
-### Table 2. List of the question type and their count.
-
-| Question type   | Count |
-|-----------------|-------|
-| Information     | 112   |
-| Treatment       | 95    |
-| Susceptibility  | 88    |
-| Research        | 86    |
-| Symptoms        | 82    |
-| Exams and tests | 82    |
-| Outlook         | 82    |
-| Stages          | 77    |
-| Prevention      | 12    |
-| Causes          | 7     |
-| Inheritance     | 5     |
-| Genetic changes | 1     |
 
 ## Reference
 ### Dataset
