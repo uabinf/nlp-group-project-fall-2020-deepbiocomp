@@ -74,6 +74,7 @@ The following have been reloaded with a version change:
 ```
 
 Now, to open Jupyter nootbook in your local machine browser, please run the commands that are mention in your output file, on your local terminal (Based on previous example):
+
 Step 1:
 ```bash
 ssh -L 9081:172.20.201.109:9081 <YOUR_USER_NAME>@cheaha.rc.uab.edu
