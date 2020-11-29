@@ -1,9 +1,9 @@
 # DeepBioComp
 # Cancer Ask :scorpion:
-![Cancer Ask Logo](Images/Cancer_ask.png)
+[//]:![Cancer Ask Logo](Images/Cancer_ask.png)
 
 
-![Cancer Ask Logo](Images/Cancer_ask.svg)
+![Cancer Ask Logo](Images/Cancer_ask.svg =100x20)
 
 ## About
 
