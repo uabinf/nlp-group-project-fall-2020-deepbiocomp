@@ -30,7 +30,7 @@ To run Jupyter Notebook and Python kernal please run the following command in yo
 sbatch scripts/job_script/CS762_pascal_Cheaha.job
 ```
 This Slurm job script will create an output file with appropriate resources. Example output file:
-file name: jupyter-log-pascal-CS762-<JOB_ID>.txt
+file name: `jupyter-log-pascal-CS762-<JOB_ID>.txt`
 ```
 Name of the cluster on which the job is executing. slurm_cluster
 Number of tasks to be initiated on each node. 1
