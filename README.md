@@ -1,10 +1,9 @@
 # DeepBioComp
 # Cancer Ask :scorpion:
-[//]:![Cancer Ask Logo](Images/Cancer_ask.png)
-
-
-![Cancer Ask Logo](Images/Cancer_ask.svg =100x20)
-
+<!--- ![Cancer Ask Logo](Images/Cancer_ask.png) ![Cancer Ask Logo](Images/Cancer_ask.svg) -->
+<p align="center">
+    <img align="center" src="Images/Cancer_ask.svg" height="400">
+</p>
 ## About
 
 We fine-tuned **[BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.1-squad) (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining)** model for short question types over cancer-related question answers and context texts, we called Cancer Ask. Further, we fine-tuned the **Generative Pre-trained Transformer 2 (GPT2)**, models over cancer-related text, we named it as GPT2 Cancer. Basic idea is to use answers from Cancer Ask :scorpion: and feed to GPT2 Cancer to extend the scope of the answer further to enhance the context.
