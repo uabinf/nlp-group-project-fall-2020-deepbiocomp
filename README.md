@@ -90,9 +90,27 @@ _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_
 
 
 ## Dataset
+In this project we are using Cancer dataset, which are published as `MedQuAD` dataset. This dataset is specifically created for medical question-answering. The dataset created from 12 NIH websites (e.g. cancer.gov, niddk.nih.gov, GARD, MedlinePlus Health Topics).
 <p align="center">
-    <img align="center" src="Images/Cancer_qtypes.png">
+    <img align="center" src="Images/Cancer_qtypes.svg">
 </p>
+As shown above figure, the Cancer dataset are focused on 98 types of cancers, and each type of cancer can have maximum 12 types of questions. In total we have 729 questions, and their questions types are distributed as follow:
+
+| Question type    | Count |
+|------------------|-------|
+| Information      | 112   |
+| Treatment        | 95    |
+| Susceptibility   | 88    |
+| Research         | 86    |
+| Symptoms         | 82    |
+| Exams and tests  | 82    |
+| Outlook          | 82    |
+| Stages           | 77    |
+| Prevention       | 12    |
+| Causes           | 7     |
+| Inheritance      | 5     |
+| Genetic changes  | 1     |
+ 
 
 ## List of Files
 * Data Prepare Script:
