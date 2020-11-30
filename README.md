@@ -92,22 +92,22 @@ _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_
 ## List of Files
 * Data Prepare Script:
 	* [`data-prepare-script_QA.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/dataset/data-prepare-script/data-prepare-script_QA.ipynb) - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. However, created JSON data were not enough and correct to train the model.
-	* `data-prepare-script_text-generation.ipynb` - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. However, created JSON data still needed cleaning.
-	* `new-data-prepare-script_QA.ipynb` - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. This JSON data are complete and cleaned.
-	* `new-data-prepare-script_text-generation.ipynb` - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. This JSON data are complete and cleaned.
-	* `RWA_to_Json_for-new-data.ipynb` - This file parse manual developer format dataset, collect appropriate informations, and save them to JSON format.
+	* [`data-prepare-script_text-generation.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/dataset/data-prepare-script/data-prepare-script_text-generation.ipynb) - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. However, created JSON data still needed cleaning.
+	* [`new-data-prepare-script_QA.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/dataset/data-prepare-script/new-data-prepare-script_QA.ipynb) - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. This JSON data are complete and cleaned.
+	* [`new-data-prepare-script_text-generation.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/dataset/data-prepare-script/new-data-prepare-script_text-generation.ipynb) - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. This JSON data are complete and cleaned.
+	* [`RWA_to_Json_for-new-data.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/dataset/data-prepare-script/RWA_to_Json_for-new-data.ipynb) - This file parse manual developer format dataset, collect appropriate informations, and save them to JSON format.
 * Question-Answer Task Script:
-	* `qa_squad_v1.ipynb` - This file is to fine tune the BERT model, by first loading the weights dmis-lab/biobert-base-cased-v1.1-squad and then train on MedQuAD Cancer dataset.
-	* `Attention_qa_model.ipynb` - This file is to visualize layer wise attetions based on trained BioBERT model on MedQuAD Cancer dataset.
-	* `args.json` - This file automatically created when you run the `qa_squad_v1.ipynb` file.
+	* [`qa_squad_v1.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/qa_script/qa_squad_v1.ipynb) - This file is to fine tune the BERT model, by first loading the weights dmis-lab/biobert-base-cased-v1.1-squad and then train on MedQuAD Cancer dataset.
+	* [`Attention_qa_model.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/qa_script/Attention_qa_model.ipynb) - This file is to visualize layer wise attetions based on trained BioBERT model on MedQuAD Cancer dataset.
+	* [`args.json`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/qa_script/args.json) - This file automatically created when you run the `qa_squad_v1.ipynb` file.
 * Text-Generation Task Script:
-	* `text_generator_GPT2_v1.ipynb` - This file is to fine tune the GPT-2 model, by first loading the weights gpt2 and then train on MedQuAD Cancer dataset.
-	* `Attention_text-generation_model.ipynb` - This file is to visualize layer wise attetions based on trained GPT-2 model on MedQuAD Cancer dataset.
-	* `args.json` - This file automatically created when you run the `text_generator_GPT2_v1.ipynb` file.
+	* [`text_generator_GPT2_v1.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/text_generation_script/text_generator_GPT2_v1.ipynb) - This file is to fine tune the GPT-2 model, by first loading the weights gpt2 and then train on MedQuAD Cancer dataset.
+	* [`Attention_text-generation_model.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/text_generation_script/Attention_text-generation_model.ipynb) - This file is to visualize layer wise attetions based on trained GPT-2 model on MedQuAD Cancer dataset.
+	* [`args.json`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/text_generation_script/args.json) - This file automatically created when you run the `text_generator_GPT2_v1.ipynb` file.
 * Combine (Question-Answer and Text-Generation) Task Script:
-	* `combine-qa-text_greneration_v1_run1.ipynb` and `combine-qa-text_greneration_v1_run2.ipynb`- This file is to load our fine tuned models (BERT and GPT-2) which are trained on MedQuAD Cancer dataset, and then prediting Answer and Long Answer.
+	* [`combine-qa-text_greneration_v1_run1.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/combine-qa-text_greneration/combine-qa-text_greneration_v1_run1.ipynb) and [`combine-qa-text_greneration_v1_run2.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/combine-qa-text_greneration/combine-qa-text_greneration_v1_run2.ipynb) - This file is to load our fine tuned models (BERT and GPT-2) which are trained on MedQuAD Cancer dataset, and then prediting Answer and Long Answer.
 * Slurm Job Script:
-	* `CS762_pascal_Cheaha.job` - This file is to submit job in Slurm manager, to get compute node on Cheaha supercomputer.
+	* [`CS762_pascal_Cheaha.job`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/scripts/job_script/CS762_pascal_Cheaha.job) - This file is to submit job in Slurm manager, to get compute node on Cheaha supercomputer.
 
 <!--
 ![Cancer Ask Logo](Images/Data_t2.svg)
