@@ -91,7 +91,7 @@ _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_
 
 ## Dataset
 <p align="center">
-    <img align="center" src="Images/Cancer_qtypes.svg" height="400">
+    <img align="center" src="Images/Cancer_qtypes.svg" height="400", weight="400">
 </p>
 
 ## List of Files
