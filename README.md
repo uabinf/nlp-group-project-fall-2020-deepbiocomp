@@ -88,6 +88,21 @@ http://localhost:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
 ```
 _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_, and _<JUPYTER_SECURITY_KEY_TOKEN>_ with the _key_ mention in your output file.
 
+
+## List of Files
+* Data Prepare Script:
+	* `data-prepare-script_QA.ipynb` - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. However, created JSON data were not enough and correct to train the model.
+	* `data-prepare-script_text-generation.ipynb` - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. However, created JSON data still needed cleaning.
+	* `new-data-prepare-script_QA.ipynb` - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. This JSON data are complete and cleaned.
+	* `new-data-prepare-script_text-generation.ipynb` - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. This JSON data are complete and cleaned.
+	* `RWA_to_Json_for-new-data.ipynb` - This file parse manual developer format dataset, collect appropriate informations, and save them to JSON format.
+* Question-Answer Task Script:
+	* `qa_squad_v1.ipynb` - This file is to fine tune the BERT model, by first loading the weights dmis-lab/biobert-base-cased-v1.1-squad and then train on MedQuAD Cancer dataset.
+	* `Attention_qa_model.ipynb` - This file is to visualize layer wise attetions based on trained BioBERT model on MedQuAD Cancer dataset.
+	* `args.json` - This file automatically created when you run the `qa_squad_v1.ipynb` file.
+* Text-Generation Task Script:
+	*
+
 <!--
 ![Cancer Ask Logo](Images/Data_t2.svg)
 
