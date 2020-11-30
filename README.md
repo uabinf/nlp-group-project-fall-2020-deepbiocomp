@@ -105,7 +105,7 @@ _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_
 	* `Attention_text-generation_model.ipynb` - This file is to visualize layer wise attetions based on trained GPT-2 model on MedQuAD Cancer dataset.
 	* `args.json` - This file automatically created when you run the `text_generator_GPT2_v1.ipynb` file.
 * Combine (Question-Answer and Text-Generation) Task Script:
-	* `combine-qa-text_greneration_v1_run1.ipynb` - This file is to load our fine tuned models (BERT and GPT-2) which are trained on MedQuAD Cancer dataset, and then prediting Answer and Long Answer.
+	* `combine-qa-text_greneration_v1_run1.ipynb` and `combine-qa-text_greneration_v1_run2.ipynb`- This file is to load our fine tuned models (BERT and GPT-2) which are trained on MedQuAD Cancer dataset, and then prediting Answer and Long Answer.
 * Slurm Job Script:
 	* `CS762_pascal_Cheaha.job` - This file is to submit job in Slurm manager, to get compute node on Cheaha supercomputer.
 
