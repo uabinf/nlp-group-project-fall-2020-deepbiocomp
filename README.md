@@ -96,6 +96,7 @@ In this project we are using Cancer dataset, which are published as `MedQuAD` da
 </p>
 As shown above figure, the Cancer dataset are focused on 98 types of cancers, and each type of cancer can have maximum 12 types of questions. In total we have 729 questions, and their questions types are distributed as follow:
 
+<center>
 | Question type    | Count |
 |------------------|-------|
 | Information      | 112   |
@@ -110,7 +111,8 @@ As shown above figure, the Cancer dataset are focused on 98 types of cancers, an
 | Causes           | 7     |
 | Inheritance      | 5     |
 | Genetic changes  | 1     |
- 
+</center>
+
 
 ## List of Files
 * Data Prepare Script:
