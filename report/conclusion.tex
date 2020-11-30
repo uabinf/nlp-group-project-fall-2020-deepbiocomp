@@ -2,4 +2,5 @@
 	The answers or responses produced by our fine-tuned model support the relevance of the question in logic with cancer QA. Our model also highlights the effectiveness of combining text generative and long-former models for further model improvement. Our findings also show that relying on a restricted set of reliable answer sources can bring a plentiful improvement in domain-specific QA.
 	
 	\subsection*{Future Plans}
-		Future Plans...
+		The dataset used in this project has on average a very long context paragraph. For the ease of fine-tune on available resources, the only initial part of the context was used. Further, the transformer-based models like BioBERT are inefficient to handle long sequences due to expensive self-attention operations. To address this limitation, we will fine-tune the Longformer. As compared to the BioBERT (transformer-based), the attention mechanism in the Longformer scales linearly with sequence length. This feature helps it to process medical documents of thousands of tokens or longer. 
+		Additionally, the chosen dataset (transformer-based) is too small and we were unable to procure the dataset from BoiASK. When available we will finetune over this big data set to add more diversity to the model.
