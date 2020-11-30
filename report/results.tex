@@ -1,2 +1,57 @@
 \section*{Results}
-	Result section...
+	This section of the report will discuss the results obtained from the two models used in this project, the metrics used to measure the accuracy of the model and the qualitative measure of the generated answers.
+	
+	\subsection*{Training and Accuracy Metrics}
+		First, the BioBERT model was fine-tuned on our dataset. The model was trained for 20 epoch running on 4 GPU cores. The model reduced the loss value with each epoch during training. Then, the following accuracy metrics scores were achieved during evaluation on test data.
+		\begin{itemize}
+			\item `exact': 70.83333333333333
+			\item `f1': 77.78311271345326,
+			\item `total': 72,
+			\item `HasAns\_exact': 70.83333333333333,
+			\item `HasAns\_f1': 77.78311271345326,
+			\item `HasAns\_total': 72,
+			\item `best\_exact': 70.83333333333333,
+			\item `best\_exact\_thresh': 0.0,
+			\item `best\_f1': 77.78311271345326,
+			\item `best\_f1\_thresh': 0.0
+		\end{itemize}
+		The accuracy metrics were monitored carefully to ensure that the model generalizes well and not overfit to the training data.
+		
+		Next, the GPT2 model was fine-tuned on the data processed for it. This model was tuned for 19 epochs and the loss value decreased with each epoch. Once the model was tuned,  the accuracy of the model was evaluated on the text data. The primary metric used was the perplexity score of the model which is as follows,
+		\begin{itemize}
+			\item `perplexity': 2.5901412982272793.
+		\end{itemize} 
+		Again, special attention is given to ensure that the model remains general and not overfit to the data. 
+		
+	\subsection*{Qualitative Results}
+		Given the nature of the project, numeric accuracy scores may not be an intuitive indicator of the performance of the model. Thus, a few examples are given below that shows the question asked to the model, the answer given by the BioBERT model and the verbose, comprehensive answer given by the GPT2 model stacked on top.
+		
+		\begin{enumerate}
+			\item[Set 1:]\qquad\\
+				\textbf{Question}: ``What are the symptoms of ovarian rian Germ Cell Tumors ?''
+				
+				\textbf{Answer}: signs of ovarian germ cell tumor are swelling of the abdomen or vaginal bleeding after menopause.
+				
+				\textbf{Comprehensive}: 
+					\begin{itemize}
+						\item \textbf{Answer 1}: signs of ovarian germ cell tumor are swelling of the abdomen or vaginal bleeding after menopause. These and other signs and symptoms may be caused by ovarian germ cell tumor or by other conditions. Check with your doctor if you have any of the following: Weakness or feeling tired. Weight loss with little or no effect on menstrual periods. Vaginal bleeding after menopause. Sometimes pain or swelling in a women's vagina. Fever or night sweats.
+						
+						\item \textbf{Answer 2}: signs of ovarian germ cell tumor are swelling of the abdomen or vaginal bleeding after menopause. These and other signs and symptoms may be caused by ovarian germ cell tumor or by other conditions. Check with your doctor if you have any of the following: Swelling of the abdomen or vaginal bleeding after menopause. Trouble starting the flow of urine. Weight loss for no known reason. Trouble emptying the bladder completely after menopause. Pain or feeling of fullness below the ribs on the left side. Fever for no known reason. Easy bruising or bleeding. Pain or feeling of fullness below the ribs on the right side.
+						
+						\item \textbf{Answer 3}: signs of ovarian germ cell tumor are swelling of the abdomen or vaginal bleeding after menopause. Other conditions can increase the risk of hairy cell leukemia. Check with your doctor if you have any of the following: Pain or swelling in the abdomen. Weakness or feeling tired. Weight loss for no known reason. A menstrual period that does not go away.
+						
+						\item \textbf{Answer 4}: signs of ovarian germ cell tumor are swelling of the abdomen or vaginal bleeding after menopause. These and other signs may be caused by ovarian germ cell tumor or by other conditions. Check with your doctor if you have any of the following: Pain or swelling in the abdomen. A lump in the abdomen, vagina, or rectum. Weight loss for no known reason. Pain or a feeling of fullness below the ribs on the left side. Weight loss with no known reason. A dark urine like color that does not go away.
+					\end{itemize}	
+			\item[Set 2:]\qquad\\
+				\textbf{Question}: ``What are the stages of Vulvar Cancer  ?''
+				
+				\textbf{Answer}: stage i stage ii stage iii stage iv after vulvar cancer has been diagnosed, tests are done to find out if cancer cells have spread within the vulva or to other parts of the body.
+				
+				\textbf{Comprehensive}: 
+				\begin{itemize}
+					\item \textbf{Answer 1}: stage i stage ii stage iii stage iv after vulvar cancer has been diagnosed, tests are done to find out if cancer cells have spread within the vulva or to other parts of the body. Cancer that has spread within the vulva to other parts of the body is called seminoma. A biopsy is done to diagnose seminoma. A biopsy is done during surgery to remove the tumor. Sometimes, a small incision (cut) is made in the vulva and a laparoscope (a thin, lighted tube) is inserted into it. The doctor will usually remove the tumor and a small amount of tissue, after the doctor has removed all the cancer. The tissue sample is checked under a microscope for signs of cancer. A pathologist views the tissue under a microscope to look for cancer cells. If cancer cells are not found, it may not be necessary to remove more tissue. There are three ways that cancer spreads in the body. Cancer can spread through tissue, the lymph system, and the blood: Tissue. The cancer spreads from where it began by growing into nearby areas. Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body. Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body. Cancer may spread from where it began to other parts of the body through organs and tissues. When cancer spreads to another part of the body, it is called metastasis. Cancer cells break away from where they began (the primary tumor) and travel through the lymph system or blood.
+					
+					\item \textbf{Answer 2}: stage i stage ii stage iii stage iv after vulvar cancer has been diagnosed, tests are done to find out if cancer cells have spread within the vulva or to other parts of the body. The following stages are used for vulvar cancer: Stage I Stage II Stage III Stage IV Stage V After vulvar cancer has been diagnosed, tests are done to find out if cancer cells have spread within the vulva or to other parts of the body. The process used to find out if cancer has spread within the vulva or to other parts of the body is called staging. The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment. Vulvar cancer in men may affect the risk of developing rectal cancer. Having rectal cancer during surgery can increase the risk of rectal cancer and is called a risk factor. Having rectal cancer in a first degree relative (parent, brother, or sister) increases the risk even more.
+				\end{itemize}	
+		\end{enumerate}
+	
