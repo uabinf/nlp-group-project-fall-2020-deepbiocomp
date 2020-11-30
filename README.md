@@ -75,18 +75,18 @@ The following have been reloaded with a version change:
 
 Now, to open Jupyter nootbook in your local machine browser, please run the commands that are mention in your output file, on your local terminal (Based on previous example):
 
-Step 1:
+**Step 1:**
 ```bash
 ssh -L 9081:172.20.201.109:9081 <YOUR_USER_NAME>@cheaha.rc.uab.edu
 ```
-_**NOTE:**_ you need to replace "<YOUR_USER_NAME>" with your user id on Cheaha. DO NOT CLOSE THE TERMINAL, AND MAKE SURE YOU ARE CONNECTED TO INTERNET.
+_**NOTE:**_ you need to replace _"<YOUR_USER_NAME>"_ with your _user id_ on Cheaha. **DO NOT CLOSE THE TERMINAL, AND MAKE SURE YOU ARE CONNECTED TO INTERNET.**
 
-Step 2:
+**Step 2:**
 Open your choice of browser and type link that is mention in your output file (Based on previous example):
 ```
 http://localhost:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
 ```
-_**NOTE:**_ you need to replace IP address "172.20.201.109" with "localhost", and <JUPYTER_SECURITY_KEY_TOKEN> with the key mention in your output file.
+_**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_, and _<JUPYTER_SECURITY_KEY_TOKEN>_ with the _key_ mention in your output file.
 
 <!--
 ![Cancer Ask Logo](Images/Data_t2.svg)
