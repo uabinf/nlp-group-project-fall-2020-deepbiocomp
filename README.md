@@ -22,7 +22,7 @@ To run this project you need to fullfill specific packages. Please run the follo
 module load Anaconda3/2020.07
 conda env create --file DeepBioComp.yml
 ```
-**NOTE:** This instructions only works if you are using [Cheaha Supercomputer](https://www.uab.edu/it/home/research-computing/cheaha).
+_**NOTE:**_ This instructions only works if you are using [Cheaha Supercomputer](https://www.uab.edu/it/home/research-computing/cheaha).
 
 ### Running Jupyter Notebooks on Cheaha
 To run Jupyter Notebook and Python kernal please run the following command in your Cheaha termial:
@@ -79,14 +79,14 @@ Step 1:
 ```bash
 ssh -L 9081:172.20.201.109:9081 <YOUR_USER_NAME>@cheaha.rc.uab.edu
 ```
-**NOTE:** you need to replace "<YOUR_USER_NAME>" with your user id on Cheaha. DO NOT CLOSE THE TERMINAL, AND MAKE SURE YOU ARE CONNECTED TO INTERNET.
+_**NOTE:**_ you need to replace "<YOUR_USER_NAME>" with your user id on Cheaha. DO NOT CLOSE THE TERMINAL, AND MAKE SURE YOU ARE CONNECTED TO INTERNET.
 
 Step 2:
 Open your choice of browser and type link that is mention in your output file (Based on previous example):
 ```
 http://localhost:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
 ```
-**NOTE:** you need to replace IP address "172.20.201.109" with "localhost", and <JUPYTER_SECURITY_KEY_TOKEN> with the key mention in your output file.
+_**NOTE:**_ you need to replace IP address "172.20.201.109" with "localhost", and <JUPYTER_SECURITY_KEY_TOKEN> with the key mention in your output file.
 
 <!--
 ![Cancer Ask Logo](Images/Data_t2.svg)
