@@ -91,7 +91,7 @@ _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_
 
 ## List of Files
 * Data Prepare Script:
-	* `data-prepare-script_QA.ipynb` - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. However, created JSON data were not enough and correct to train the model.
+	* [`data-prepare-script_QA.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/dataset/data-prepare-script/data-prepare-script_QA.ipynb) - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. However, created JSON data were not enough and correct to train the model.
 	* `data-prepare-script_text-generation.ipynb` - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. However, created JSON data still needed cleaning.
 	* `new-data-prepare-script_QA.ipynb` - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. This JSON data are complete and cleaned.
 	* `new-data-prepare-script_text-generation.ipynb` - This file parse all raw XML data, and collect appropriate informations for Text-Generation model and save them to JSON format. This JSON data are complete and cleaned.
