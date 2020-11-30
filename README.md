@@ -218,8 +218,14 @@ _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_
 -->
 
 ## Reference
-### Dataset
-* [MedQuAD dataset](https://github.com/abachaa/MedQuAD/tree/master/1_CancerGov_QA), [ARTICLE](https://arxiv.org/abs/1901.08079) Abacha, A. B., & Demner-Fushman, D. (2019). A question-entailment approach to question answering. BMC bioinformatics, 20(1), 511.
+* Code
+	* [Transformers](https://github.com/huggingface/transformers)
+	* [Transformers - QA example](https://github.com/huggingface/transformers/blob/master/examples/question-answering/run_squad.py)
+	* Suraj Patil's [notebook example](https://github.com/patil-suraj/Notebooks/blob/master/longformer_qa_training.ipynb)
+	* Old version of [Transformers - Language modeling example](https://github.com/huggingface/transformers/blob/master/examples/contrib/legacy/run_language_modeling.py)
+	* Old version of [Transformers - Language model generation example](https://github.com/huggingface/transformers/blob/master/examples/text-generation/run_generation.py)
+* Dataset
+	* [MedQuAD dataset](https://github.com/abachaa/MedQuAD/tree/master/1_CancerGov_QA), [ARTICLE](https://arxiv.org/abs/1901.08079) Abacha, A. B., & Demner-Fushman, D. (2019). A question-entailment approach to question answering. BMC bioinformatics, 20(1), 511.
 
 ## License
 [MIT](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/LICENSE)
