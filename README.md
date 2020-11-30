@@ -89,6 +89,11 @@ http://localhost:9081/?token=<JUPYTER_SECURITY_KEY_TOKEN>
 _**NOTE:**_ you need to replace IP address _"172.20.201.109"_ with _"localhost"_, and _<JUPYTER_SECURITY_KEY_TOKEN>_ with the _key_ mention in your output file.
 
 
+## Dataset
+<p align="center">
+    <img align="center" src="Images/Cancer_qtypes.svg" height="400">
+</p>
+
 ## List of Files
 * Data Prepare Script:
 	* [`data-prepare-script_QA.ipynb`](https://github.com/uabinf/nlp-group-project-fall-2020-deepbiocomp/blob/main/dataset/data-prepare-script/data-prepare-script_QA.ipynb) - This file parse all raw XML data, and collect appropriate informations for Question-Answer model and save them to JSON format. However, created JSON data were not enough and correct to train the model.
